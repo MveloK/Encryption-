@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\repos\ISECice\ISECice\bin\Debug\net8.0\ISECice.exe
+C:\Users\Laptop\source\repos\ISECice\ISECice\bin\Debug\net8.0\ISECice.deps.json
+C:\Users\Laptop\source\repos\ISECice\ISECice\bin\Debug\net8.0\ISECice.runtimeconfig.json
+C:\Users\Laptop\source\repos\ISECice\ISECice\bin\Debug\net8.0\ISECice.dll
+C:\Users\Laptop\source\repos\ISECice\ISECice\bin\Debug\net8.0\ISECice.pdb
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.dll
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\refint\ISECice.dll
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.pdb
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ISECice.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\ISECice\ISECice\obj\Debug\net8.0\ref\ISECice.dll
